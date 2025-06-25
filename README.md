@@ -11,10 +11,3 @@ This is a simple Python project that accesses the [PokéAPI](https://pokeapi.co/
 - Acts as a base template for more advanced Pokémon-related games or bots.
 
 ---
-
-## 🚀 How to Run
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/yourusername/Pokemon-Detect-Game-PY.git
-   cd Pokemon-Detect-Game-PY
